@@ -1,2 +1,2 @@
-define(["oasis"], function(o) {
+define(["jquery", "oasis"], function(jquery, Oasis) {
 });

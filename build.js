@@ -1,10 +1,12 @@
 {
     baseUrl: ".",
     paths: {
-        "oasis": "bower_components/oasis.js/dist/oasis.amd"
+      "jquery": "bower_components/jquery/dist/jquery",
+      "oasis": "bower_components/oasis.js/dist/oasis.amd",
+      "rsvp": "bower_components/rsvp/rsvp"
     },
     name: "main",
     include: "main",
     out: "main.min.js",
-    wrap: true  
+    wrap: true
 }
