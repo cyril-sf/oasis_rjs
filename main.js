@@ -1,0 +1,2 @@
+define(["oasis"], function(o) {
+});
